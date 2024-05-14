@@ -1,0 +1,11 @@
+2024-05-14 14:22:45.044 [info] 
+
+
+
+
+2024-05-14 14:22:45.044 [info] Extension host agent started.
+2024-05-14 14:22:45.044 [info] Started initializing default profile extensions in extensions installation folder. file:///home/hsingh/.vscode-server/extensions
+2024-05-14 14:22:45.065 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/hsingh/.vscode-server/extensions
+2024-05-14 14:22:45.274 [info] [127.0.0.1][85ab17c2][ManagementConnection] New connection established.
+2024-05-14 14:22:45.571 [info] [127.0.0.1][254dfef9][ExtensionHostConnection] New connection established.
+2024-05-14 14:22:45.594 [info] [127.0.0.1][254dfef9][ExtensionHostConnection] <172> Launched Extension Host Process.
